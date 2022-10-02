@@ -19,7 +19,7 @@
 - Présentation Spark 1
 - [TP Spark]()
 - Présentation Spark 2
-- [TP Spark-SQL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1348857563985924/2924469475429130/3558912631747540/latest.html) (Databricks community --> Workspace --> clic droit --> import --> cocher "url" --> coller le lien --> import
+- [TP Spark-SQL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1348857563985924/2924469475429130/3558912631747540/latest.html) (Databricks community --> Workspace --> clic droit --> import --> cocher "url" --> coller le lien --> import)
 
 ### Jour 3
 - TP Spark-SQL (solution)
@@ -34,4 +34,4 @@
 
 ### Jour 5
 - [TP NiFi (suite)](https://github.com/doudi0101/NiFi_detailed)
-- [TP Spark Alpha](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1348857563985924/3404351957943412/3558912631747540/latest.html)
+- [TP Spark Alpha](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1348857563985924/3404351957943412/3558912631747540/latest.html) (Databricks community --> Workspace --> clic droit --> import --> cocher "url" --> coller le lien --> import)
