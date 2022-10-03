@@ -20,7 +20,7 @@
 - [TP Spark Dbx](https://github.com/mehdi-lamrani/big-data-tech/blob/main/Spark%20Python%20With%20Databricks.dbc?raw=true)
 - Présentation Spark 2
 - [TP Spark-SQL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1348857563985924/2924469475429130/3558912631747540/latest.html)<br>
-(Databricks community --> Workspace --> clic droit --> import --> cocher "url" --> coller le lien --> import)
+(_Databricks community > Workspace > clic droit > import > cocher "url" > coller le lien > import_)
 
 ### Jour 3
 - TP Spark-SQL (solution)
