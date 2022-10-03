@@ -13,7 +13,7 @@
 - Une clé SSH training.pem vous sera transmise sur le chat Teams
 - username : `hadoop`
 - adresse ip : `adresse ip fournie`
-- options de connection : clé ssh ppk
+- options de connection : clé ssh pem
 - Se rendre dans le repertoire où vous  avez mis votre fichier pem
   Par exemple, si vous êtes sur windows et que vous l'avez mis dans le dossier téléchargements :
 ```
