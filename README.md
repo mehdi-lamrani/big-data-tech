@@ -16,7 +16,7 @@
 - Présentation Spark 1
 - Démo Spark Shell
 - [TP Spark Shell](https://github.com/mehdi-lamrani/spark-training-v2.0/blob/main/session%201/part%201/shell/exercices/README.md)
-- Démo Spark Notebooks
+- [Démo Spark Notebooks](https://github.com/mehdi-lamrani/Spark-Databricks/blob/main/directives.md)
 - [TP Spark Dbx](https://github.com/mehdi-lamrani/big-data-tech/blob/main/Spark%20Python%20With%20Databricks.dbc?raw=true)
   (1 to 6L)
 - Présentation Spark 2
