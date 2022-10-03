@@ -11,7 +11,7 @@
 - YARN
 
 ### Jour 2
-- Hive
+- Présentation Hive
 - [TP Hive](https://github.com/mehdi-lamrani/hadoop-workshop/blob/master/04-HIVE-PART1-update.md)
 - Présentation Spark 1
 - Démo Spark Shell
