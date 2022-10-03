@@ -21,7 +21,7 @@ cd downloads
 ```
 - et puis connectez-vous à l'instance EC2 :
  ```
-ssh -i "cle-ssh.pem" hadoop@ec2-addresse_ip.compute-1.amazonaws.com
+ssh -i "cle-ssh.pem" hadoop@adresse.ip.four.nie
 ```
 
 ![ter](https://user-images.githubusercontent.com/73080397/182382478-19512c71-e9e7-4367-8ed8-8d48ea4063f4.png)
