@@ -28,7 +28,9 @@
 - [TP Spark-SQL (hint)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1348857563985924/3553843326358405/3558912631747540/latest.html)
 - [TP Kafka ](https://github.com/mehdi-lamrani/kafka-workshop)
 - Spark Streaming
-- [TP Spark Streaming](https://)
+- Spark Streaming Dbx Notebook (10-11)
+- [TP Spark Streaming](https://github.com/mehdi-lamrani/spark-training-v2.0/tree/main/session%204/streaming/exercises)
+
 
 ### Jour 4
 - Présentation NiFi
